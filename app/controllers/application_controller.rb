@@ -42,4 +42,7 @@ class ApplicationController < Sinatra::Base
     erb :show
   end
 
+# Delete #
+  
+
 end
